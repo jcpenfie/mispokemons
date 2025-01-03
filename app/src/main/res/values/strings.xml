@@ -2,4 +2,8 @@
     <string name="app_name">Mis Pokemons</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mis_pokemons">Mis Pokemons</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="detalles_pokemon">Detalles pokemon</string>
 </resources>

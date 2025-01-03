@@ -5,10 +5,17 @@
     android:layout_height="match_parent"
     tools:context=".MisPokemonsFragment">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:id="@+id/title_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mis_pokemons"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/show_details_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Details"/>
 
 </FrameLayout>
