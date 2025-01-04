@@ -22,4 +22,6 @@
     <string name="cambiar_message">"Se ha cambiado el idioma"</string>
     <string name="pokemons_deleted">Se han eliminado los pokemos correctamente</string>
     <string name="switch_disabled">No se han eliminado los pokemons</string>
+    <string name="back_arrow">←</string>
+    <string name="blank" />
 </resources>
