@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/title"
+        android:checkable="false"
+        android:title="@string/ajustes" />
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/idioma"
+            android:icon="@drawable/baseline_g_translate_24"
+            android:title="@string/idioma">
+        </item>
+        <item
+            android:id="@+id/eliminar_pokemons"
+            android:icon="@android:drawable/ic_menu_close_clear_cancel"
+            android:title="@string/eliminar_mis_pokemons"
+            app:actionLayout="@layout/switch_item"
+            app:showAsAction="always" />
+        <item
+            android:id="@+id/acerca_de"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="@string/acerca_de" />
+        <item
+            android:id="@+id/cerrrar_sesion"
+            android:icon="@drawable/baseline_logout_24"
+            android:title="@string/cerrar_sesi_n" />
+    </group>
+</menu>

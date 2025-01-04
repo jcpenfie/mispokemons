@@ -6,4 +6,20 @@
     <string name="pokedex">Pokédex</string>
     <string name="ajustes">Ajustes</string>
     <string name="detalles_pokemon">Detalles pokemon</string>
+    <string name="cerrar_sesi_n">Cerrar sesión</string>
+    <string name="item">Item</string>
+    <string name="eliminar_mis_pokemons">Eliminar mis pokemons</string>
+    <string name="idioma">Idioma</string>
+    <string name="espa_ol">Español</string>
+    <string name="english">English</string>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="dialog_message">Aplicación desarrollada por Juan Carlos Peña Fierro. Versión 1.0.</string>
+    <string name="cerrar_message">¿Estás seguro de que quieres cerrar tu sesión de usuario?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cambiar_message">"Se ha cambiado el idioma"</string>
+    <string name="pokemons_deleted">Se han eliminado los pokemos correctamente</string>
+    <string name="switch_disabled">No se han eliminado los pokemons</string>
 </resources>
