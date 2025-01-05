@@ -82,7 +82,7 @@ public class AjustesFragment extends Fragment {
                     Toast.makeText(getContext(), "Se ha cerrado la sesión", Toast.LENGTH_SHORT).show();
                 })
                 .setNegativeButton(R.string.cancelar, (dialog, id) -> {
-                });;
+                });
         // 3. Creamos el AlertDialog.
         AlertDialog dialog = builder.create();
         //4. Lo mostramos

@@ -24,4 +24,12 @@
     <string name="switch_disabled">No se han eliminado los pokemons</string>
     <string name="back_arrow">←</string>
     <string name="blank" />
+    <string name="imagen_del_pokemon">Imagen del pokemon</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="pokemon_type">Tipo de pokemon</string>
+    <string name="pokemon_indice">Índice pokedex\n</string>
+    <string name="pokemon_altura">Altura</string>
+    <string name="pokemon_peso">Peso</string>
+    <string name="pokemon_types">Tipos</string>
+    <string name="boton_para_borrar_el_pokemon">Boton para borrar el pokemon</string>
 </resources>
